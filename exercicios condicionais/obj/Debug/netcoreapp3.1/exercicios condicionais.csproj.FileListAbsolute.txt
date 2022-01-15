@@ -1,0 +1,14 @@
+C:\Users\Apex04\source\repos\aula-2\exercicios condicionais\bin\Debug\netcoreapp3.1\exercicios condicionais.exe
+C:\Users\Apex04\source\repos\aula-2\exercicios condicionais\bin\Debug\netcoreapp3.1\exercicios condicionais.deps.json
+C:\Users\Apex04\source\repos\aula-2\exercicios condicionais\bin\Debug\netcoreapp3.1\exercicios condicionais.runtimeconfig.json
+C:\Users\Apex04\source\repos\aula-2\exercicios condicionais\bin\Debug\netcoreapp3.1\exercicios condicionais.runtimeconfig.dev.json
+C:\Users\Apex04\source\repos\aula-2\exercicios condicionais\bin\Debug\netcoreapp3.1\exercicios condicionais.dll
+C:\Users\Apex04\source\repos\aula-2\exercicios condicionais\bin\Debug\netcoreapp3.1\exercicios condicionais.pdb
+C:\Users\Apex04\source\repos\aula-2\exercicios condicionais\obj\Debug\netcoreapp3.1\exercicios condicionais.csproj.AssemblyReference.cache
+C:\Users\Apex04\source\repos\aula-2\exercicios condicionais\obj\Debug\netcoreapp3.1\exercicios condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apex04\source\repos\aula-2\exercicios condicionais\obj\Debug\netcoreapp3.1\exercicios condicionais.AssemblyInfoInputs.cache
+C:\Users\Apex04\source\repos\aula-2\exercicios condicionais\obj\Debug\netcoreapp3.1\exercicios condicionais.AssemblyInfo.cs
+C:\Users\Apex04\source\repos\aula-2\exercicios condicionais\obj\Debug\netcoreapp3.1\exercicios condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Apex04\source\repos\aula-2\exercicios condicionais\obj\Debug\netcoreapp3.1\exercicios condicionais.dll
+C:\Users\Apex04\source\repos\aula-2\exercicios condicionais\obj\Debug\netcoreapp3.1\exercicios condicionais.pdb
+C:\Users\Apex04\source\repos\aula-2\exercicios condicionais\obj\Debug\netcoreapp3.1\exercicios condicionais.genruntimeconfig.cache

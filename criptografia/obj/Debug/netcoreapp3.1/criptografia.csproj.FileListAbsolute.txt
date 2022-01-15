@@ -1,0 +1,14 @@
+C:\Users\Apex04\source\repos\aula-2\criptografia\bin\Debug\netcoreapp3.1\criptografia.exe
+C:\Users\Apex04\source\repos\aula-2\criptografia\bin\Debug\netcoreapp3.1\criptografia.deps.json
+C:\Users\Apex04\source\repos\aula-2\criptografia\bin\Debug\netcoreapp3.1\criptografia.runtimeconfig.json
+C:\Users\Apex04\source\repos\aula-2\criptografia\bin\Debug\netcoreapp3.1\criptografia.runtimeconfig.dev.json
+C:\Users\Apex04\source\repos\aula-2\criptografia\bin\Debug\netcoreapp3.1\criptografia.dll
+C:\Users\Apex04\source\repos\aula-2\criptografia\bin\Debug\netcoreapp3.1\criptografia.pdb
+C:\Users\Apex04\source\repos\aula-2\criptografia\obj\Debug\netcoreapp3.1\criptografia.csproj.AssemblyReference.cache
+C:\Users\Apex04\source\repos\aula-2\criptografia\obj\Debug\netcoreapp3.1\criptografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apex04\source\repos\aula-2\criptografia\obj\Debug\netcoreapp3.1\criptografia.AssemblyInfoInputs.cache
+C:\Users\Apex04\source\repos\aula-2\criptografia\obj\Debug\netcoreapp3.1\criptografia.AssemblyInfo.cs
+C:\Users\Apex04\source\repos\aula-2\criptografia\obj\Debug\netcoreapp3.1\criptografia.csproj.CoreCompileInputs.cache
+C:\Users\Apex04\source\repos\aula-2\criptografia\obj\Debug\netcoreapp3.1\criptografia.dll
+C:\Users\Apex04\source\repos\aula-2\criptografia\obj\Debug\netcoreapp3.1\criptografia.pdb
+C:\Users\Apex04\source\repos\aula-2\criptografia\obj\Debug\netcoreapp3.1\criptografia.genruntimeconfig.cache

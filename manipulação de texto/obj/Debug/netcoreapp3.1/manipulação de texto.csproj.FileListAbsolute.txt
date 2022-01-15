@@ -1,0 +1,14 @@
+C:\Users\Apex04\source\repos\aula-2\manipulação de texto\bin\Debug\netcoreapp3.1\manipulação de texto.exe
+C:\Users\Apex04\source\repos\aula-2\manipulação de texto\bin\Debug\netcoreapp3.1\manipulação de texto.deps.json
+C:\Users\Apex04\source\repos\aula-2\manipulação de texto\bin\Debug\netcoreapp3.1\manipulação de texto.runtimeconfig.json
+C:\Users\Apex04\source\repos\aula-2\manipulação de texto\bin\Debug\netcoreapp3.1\manipulação de texto.runtimeconfig.dev.json
+C:\Users\Apex04\source\repos\aula-2\manipulação de texto\bin\Debug\netcoreapp3.1\manipulação de texto.dll
+C:\Users\Apex04\source\repos\aula-2\manipulação de texto\bin\Debug\netcoreapp3.1\manipulação de texto.pdb
+C:\Users\Apex04\source\repos\aula-2\manipulação de texto\obj\Debug\netcoreapp3.1\manipulação de texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apex04\source\repos\aula-2\manipulação de texto\obj\Debug\netcoreapp3.1\manipulação de texto.AssemblyInfoInputs.cache
+C:\Users\Apex04\source\repos\aula-2\manipulação de texto\obj\Debug\netcoreapp3.1\manipulação de texto.AssemblyInfo.cs
+C:\Users\Apex04\source\repos\aula-2\manipulação de texto\obj\Debug\netcoreapp3.1\manipulação de texto.csproj.CoreCompileInputs.cache
+C:\Users\Apex04\source\repos\aula-2\manipulação de texto\obj\Debug\netcoreapp3.1\manipulação de texto.dll
+C:\Users\Apex04\source\repos\aula-2\manipulação de texto\obj\Debug\netcoreapp3.1\manipulação de texto.pdb
+C:\Users\Apex04\source\repos\aula-2\manipulação de texto\obj\Debug\netcoreapp3.1\manipulação de texto.genruntimeconfig.cache
+C:\Users\Apex04\source\repos\aula-2\manipulação de texto\obj\Debug\netcoreapp3.1\manipulação de texto.csproj.AssemblyReference.cache
